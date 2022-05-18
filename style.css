@@ -1,0 +1,21 @@
+#container {
+  width: 472px;
+}
+
+
+.graph{
+  position: relative;
+}
+
+.title {
+  color: #9EA3A8;
+  font-size: 12px;
+}
+
+.icon{
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #2F80ED;
+}

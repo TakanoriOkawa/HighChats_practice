@@ -1,6 +1,6 @@
 #container {
   width: 472px;
-  height: 400px; 
+  height: 314px; 
   /* 高さはかりです。 */
 }
 
@@ -20,4 +20,8 @@
   height: 10px;
   border-radius: 50%;
   background-color: #2F80ED;
+}
+
+.highcharts-credits{
+  display: none;
 }
